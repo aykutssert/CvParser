@@ -1,0 +1,43 @@
+{
+    "name": "Jake Ryan",
+    "education": [
+        "Southwestern University Georgetown, TX",
+        "Bachelor of Arts in Computer Science, Minor in Business Aug. 2018 \u2013 May 2021"
+    ],
+    "skills": {
+        "languages": [
+            "Java",
+            "Python",
+            "C/C++",
+            "SQL (Postgres)",
+            "JavaScript",
+            "HTML/CSS",
+            "R"
+        ],
+        "frameworks": [
+            "React",
+            "Node.js",
+            "Flask",
+            "JUnit",
+            "WordPress",
+            "Material-UI",
+            "FastAPI"
+        ],
+        "developer_tools": [
+            "Git",
+            "Docker",
+            "TravisCI",
+            "Google Cloud Platform",
+            "VS Code",
+            "Visual Studio",
+            "PyCharm",
+            "IntelliJ",
+            "Eclipse"
+        ],
+        "libraries": [
+            "pandas",
+            "NumPy",
+            "Matplotlib"
+        ]
+    }
+}
