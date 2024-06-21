@@ -49,7 +49,7 @@ python parser.py
 - The project is open source on GitHub. To contribute, please visit the GitHub repository.
 - During development, you can modify existing code to add new features or fix bugs.
 
-[![gui1](program.png)](https://github.com/aykutssert/CvParser/blob/main/images/program.png)
+![program.png](https://github.com/aykutssert/CvParser/blob/main/images/program.png)
 ![gui_1.png](https://github.com/aykutssert/CvParser/blob/main/images/gui_1.png)
 ![gui_2.png](https://github.com/aykutssert/CvParser/blob/main/images/gui_2.png)
 
