@@ -1,6 +1,6 @@
 # Resume Parser
 
-This program is used to extract information from a PDF resume file. The extracted information can be saved in JSON or Excel format.
+This program is used to extract information from a PDF resume file. The extracted information can be saved in JSON or Excel format. The project will be developed after gaining competence in subjects such as Natural Language Model, Named Entity Recognition, Machine Learning, Natural Language Understanding, Natural Language Generator, Deep Learning.
 
 ## Libraries Used
 
